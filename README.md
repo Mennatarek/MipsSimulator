@@ -7,18 +7,12 @@ the	datapath includes simulating all of its storage components (register file,me
 of its control signals.This	document details the supported instructions,the inputs to	the	simulator,and	the	expected 
 outputs.
 
-ISA::
-
-  •Arithmetic:	
-     add, addi, sub
-  •Load/Store:	
-     lw, sw
-  •Logic:	
-     sll, srl, and, andi, or, ori, nor
-  •Control flow:	
-     beq, bne, j, jal, jr
-  •Comparison:
-     slt, sltu
+ISA:
+  •Arithmetic:add, addi, sub
+  •Load/Store:lw, sw
+  •Logic:sll, srl, and, andi, or, ori, nor
+  •Control flow:beq, bne, j, jal, jr
+  •Comparison:slt, sltu
      
 
 
