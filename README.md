@@ -8,6 +8,7 @@ of its control signals.This	document details the supported instructions,the inpu
 outputs.
 
 ISA::
+
   •Arithmetic:	
      add, addi, sub
   •Load/Store:	
